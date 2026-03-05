@@ -10,11 +10,8 @@ A PyMOL plugin that embeds a Claude AI chat panel directly inside the PyMOL wind
 
 - 💬 **Docked chat panel** — lives inside the PyMOL window, dockable to any edge
 - 🧠 **Natural language → PyMOL commands** — powered by Claude AI
-- 🎨 **Chat bubble UI** — color-coded messages for you, Claude, and command output
 - ⌨️ **Prompt history** — navigate previous inputs with `↑` / `↓`
-- 🔑 **Persistent API key** — set once, saved automatically across restarts
-- 🖥️ **macOS native** — built on PyMOL's own Qt layer, no XQuartz needed
-
+- 
 ---
 
 ## Requirements
