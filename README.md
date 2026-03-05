@@ -11,7 +11,9 @@ A PyMOL plugin that embeds a Claude AI chat panel directly inside the PyMOL wind
 - 💬 **Docked chat panel** — lives inside the PyMOL window, dockable to any edge
 - 🧠 **Natural language → PyMOL commands** — powered by Claude AI
 - ⌨️ **Prompt history** — navigate previous inputs with `↑` / `↓`
-- 
+
+Feel free to optimize the system promt for claude at SYSTEM_PROMPT in the .py file!! 
+
 ---
 
 ## Requirements
