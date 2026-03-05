@@ -4,6 +4,8 @@ A PyMOL plugin that embeds a Claude AI chat panel directly inside the PyMOL wind
 
 > **"fetch 1hpv and show as cartoon, color by chain"** → executed instantly.
 
+![Alt text](example.png)
+
 ---
 
 ## Features
